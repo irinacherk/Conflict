@@ -1,5 +1,10 @@
 a = 7  # создание переменной
 b = 9
-print(a + b)  # вывод суммы
+ main
 
-print(a*b)
+print(a * b)  # вывод произведения
+
+
+
+
+print(a*b) new-test
